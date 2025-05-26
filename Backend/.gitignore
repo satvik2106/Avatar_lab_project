@@ -1,0 +1,10 @@
+node_modules
+outputs
+Backend/LatentSync/api/checkpoints/auxiliary/models/buffalo_l/w600k_r50.onnx
+Backend/LatentSync/api/checkpoints/auxiliary/models/buffalo_l.zip
+Backend/LatentSync/api/checkpoints/auxiliary/models/buffalo_l/1k3d68.onnx
+Backend/LatentSync/api/checkpoints/auxiliary/models/buffalo_l/
+*.onnx
+*.zip
+*.keras
+*.h5

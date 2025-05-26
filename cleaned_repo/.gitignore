@@ -1,0 +1,3 @@
+Backend/LatentSync/api/checkpoints/auxiliary/models/buffalo_l/
+*.onnx
+*.zip
