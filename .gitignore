@@ -1,0 +1,4 @@
+# Ignore large model files
+Backend/LatentSync/api/checkpoints/auxiliary/models/buffalo_l/
+*.zip
+*.onnx
